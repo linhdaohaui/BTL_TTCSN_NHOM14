@@ -21,7 +21,10 @@ menu{
     line-height: 40px;
     margin-bottom: 50px;
 }
-
+.image img:hover
+{
+    transform: scale(1.1);
+}
 menu ul{
     display: flex;
     list-style: none;
